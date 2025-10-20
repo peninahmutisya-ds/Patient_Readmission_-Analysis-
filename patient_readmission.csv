@@ -1,0 +1,75 @@
+patient_id,name,gender,age,city,department,doctor,admission_date,discharge_date,bill_amount,insurance,diagnosis,readmitted
+3001,Patient_3001,Male,54, Lagos ,Orthopedics,Dr. Musa,2024-06-28,2024-07-11,391724,Yes,Cancer,Yes
+3002,Patient_3002, female ,81,Abuja,Pediatrics,Dr. Musa,2024-06-10,2024-06-18,265621,Yes,Diabetes,Yes
+3003,Patient_3003,Male,47,Enugu,Neurology,Dr. Smith,2024-06-16,2024-06-24,"487,807",,Fracture,Yes
+3004,Patient_3004,MALE,87, Lagos ,Oncology,Dr. Okeke,2024-06-05,,391458,,Diabetes,Yes
+3005,Patient_3005, female ,79,Lagos,Neurology,Dr. Smith,2024-06-27,2024-06-30,, yes ,Cancer,No
+3006,Patient_3006,Male,40,Kano,Oncology,Dr. Smith,2024-07-30,2024-08-14,46244,Yes,Cancer,Yes
+3007,Patient_3007,Male,37,Enugu, cardiology ,Dr. Bello,2024-07-15,2024-07-20,120511,No,Hypertension,Yes
+3008,Patient_3008,MALE,86, Lagos ,Cardiology,Dr. Bello,2024-06-19,2024-06-27,393053, yes ,Fracture,No
+3009,Patient_3009, female ,74, Lagos ,Oncology,Dr. Okeke,,2024-07-09,"388,537", yes ,Diabetes,Yes
+3010,Patient_3010, female ,66, Lagos ,Oncology,Dr. Bello,2024-06-30,2024-07-15,334001, yes ,Cancer,Yes
+3011,Patient_3011,Male,77, Lagos ,Pediatrics,Dr. Adams,2024-06-26,2024-07-13,468625,No,Asthma,No
+3012,Patient_3012,Female,23, Lagos ,Orthopedics,Dr. Smith,,2024-07-31,"433,045", yes ,Hypertension,No
+3013,Patient_3013,Female,19,Enugu, cardiology ,Dr. Bello,2024-06-09,2024-06-22,340003,,Diabetes,Yes
+3014,Patient_3014, female ,35,Kano,Oncology,Dr. Adams,2024-07-06,2024-07-19,"222,536", yes ,Diabetes,Yes
+3015,Patient_3015, female ,76,Enugu,Cardiology,Dr. Okeke,2024-06-19,2024-06-22,,No,Fracture,No
+3016,Patient_3016,Female,42,Lagos, cardiology ,Dr. Musa,2024-06-07,2024-06-12,,Yes,Cancer,Yes
+3017,Patient_3017,Female,20,Abuja,Cardiology,Dr. Musa,2024-07-08,2024-07-16,,, cancer ,No
+3018,Patient_3018,Male,50,Port Harcourt,Orthopedics,Dr. Okeke,2024-06-25,2024-07-12,440501,No,Diabetes,No
+3019,Patient_3019,MALE,63,Kano,Pediatrics,Dr. Adams,2024-06-09,,99904,No,Fracture,No
+3020,Patient_3020,Male,52,Port Harcourt,Orthopedics,Dr. Smith,2024-07-21,2024-07-26,166387, yes ,Hypertension,No
+3021,Patient_3021,MALE,73,Port Harcourt, cardiology ,Dr. Bello,2024-06-10,2024-06-18,310541,No,Hypertension,Yes
+3022,Patient_3022,Male,71,Port Harcourt,Pediatrics,Dr. Adams,2024-07-13,,,,Diabetes,Yes
+3023,Patient_3023,Male,18,Abuja,Orthopedics,Dr. Adams,2024-06-08,2024-06-11,320609,No,Hypertension,Yes
+3024,Patient_3024, female ,31,Kano,Orthopedics,Dr. Musa,2024-06-23,2024-07-01,462179, yes ,Fracture,Yes
+3025,Patient_3025,MALE,26,Port Harcourt,Neurology,Dr. Adams,2024-07-23,2024-08-04,362048,No,Diabetes,Yes
+3026,Patient_3026,Male,83,Lagos,Pediatrics,Dr. Smith,2024-07-13,2024-07-24,518242,No,Hypertension,Yes
+3027,Patient_3027,Male,63,Port Harcourt,Orthopedics,Dr. Musa,2024-06-21,2024-06-30,185204,,Diabetes,No
+3028,Patient_3028,Male,29, Lagos ,Neurology,Dr. Bello,,2024-07-28,"168,353",,Asthma,No
+3029,Patient_3029,Female,28,Kano,Neurology,Dr. Okeke,2024-07-30,2024-08-01,72649, yes ,Asthma,No
+3030,Patient_3030,Female,73,Abuja,Pediatrics,Dr. Smith,2024-07-21,2024-07-31,120346,,Diabetes,Yes
+3031,Patient_3031,Male,19,Port Harcourt,Cardiology,Dr. Musa,2024-07-29,2024-08-11,,,Hypertension,Yes
+3032,Patient_3032, female ,86,Kano,Pediatrics,Dr. Musa,2024-06-24,2024-06-27,"385,287",,Cancer,No
+3033,Patient_3033,MALE,66,Lagos,Pediatrics,Dr. Okeke,2024-07-09,2024-07-11,435255, yes ,Cancer,No
+3034,Patient_3034,MALE,27,Kano,Oncology,Dr. Bello,2024-07-22,2024-08-02,"506,776",,Hypertension,Yes
+3035,Patient_3035, female ,87,Port Harcourt,Orthopedics,Dr. Musa,2024-06-06,2024-06-18,140759, yes ,Cancer,No
+3036,Patient_3036,MALE,69,Abuja,Neurology,Dr. Bello,2024-06-29,2024-07-07,"395,542",Yes, cancer ,No
+3037,Patient_3037,Male,21,Abuja,Oncology,Dr. Smith,2024-06-26,2024-07-04,228596,,Diabetes,Yes
+3038,Patient_3038, female ,59,Kano,Pediatrics,Dr. Adams,2024-07-17,2024-07-28,"275,039",, cancer ,No
+3039,Patient_3039, female ,51,Kano,Orthopedics,Dr. Smith,2024-07-12,2024-07-19,489940,Yes,Hypertension,Yes
+3040,Patient_3040,MALE,78,Enugu,Cardiology,Dr. Bello,,2024-07-02,69788, yes ,Asthma,Yes
+3041,Patient_3041,Female,22,Lagos,Orthopedics,Dr. Okeke,2024-07-20,2024-07-26,"410,540",,Diabetes,No
+3042,Patient_3042, female ,60,Port Harcourt,Cardiology,Dr. Okeke,2024-07-16,2024-07-20,"288,187",No,Diabetes,No
+3043,Patient_3043,Male,71,Lagos,Orthopedics,Dr. Smith,,2024-06-30,,No, cancer ,Yes
+3044,Patient_3044,MALE,62,Abuja,Oncology,Dr. Musa,2024-06-17,2024-07-05,236437,Yes,Fracture,No
+3045,Patient_3045,MALE,21,Port Harcourt,Oncology,Dr. Adams,2024-07-21,2024-07-26,412196,No,Diabetes,No
+3046,Patient_3046,MALE,38,Abuja,Orthopedics,Dr. Okeke,2024-07-29,2024-08-09,339691,,Asthma,No
+3047,Patient_3047,MALE,71,Lagos,Cardiology,Dr. Adams,2024-06-29,,353593,,Diabetes,Yes
+3048,Patient_3048, female ,26,Abuja,Pediatrics,Dr. Okeke,2024-07-24,2024-08-09,"62,123", yes ,Cancer,No
+3049,Patient_3049,Male,36,Kano,Cardiology,Dr. Musa,2024-07-24,2024-08-06,151080,No,Fracture,No
+3050,Patient_3050,Female,65,Port Harcourt,Oncology,Dr. Bello,2024-07-31,2024-08-06,269692, yes , cancer ,No
+3051,Patient_3051,Male,48,Abuja,Pediatrics,Dr. Bello,,2024-06-27,,No,Asthma,No
+3052,Patient_3052,MALE,28,Lagos,Orthopedics,Dr. Okeke,2024-07-22,2024-07-26,"110,554",No,Hypertension,Yes
+3053,Patient_3053, female ,25,Port Harcourt,Cardiology,Dr. Musa,2024-06-12,2024-06-26,330418,,Cancer,Yes
+3054,Patient_3054,Female,84,Kano,Pediatrics,Dr. Adams,2024-07-23,2024-07-28,,Yes,Asthma,No
+3055,Patient_3055, female ,67,Lagos,Oncology,Dr. Smith,2024-07-21,2024-07-24,"69,593",,Fracture,No
+3056,Patient_3056, female ,86,Kano, cardiology ,Dr. Smith,2024-07-11,2024-07-22,"316,106",Yes,Asthma,No
+3057,Patient_3057,MALE,57,Port Harcourt,Orthopedics,Dr. Bello,2024-06-20,2024-07-02,265428, yes ,Asthma,Yes
+3058,Patient_3058,Male,36,Port Harcourt,Neurology,Dr. Adams,2024-06-02,2024-06-10,"463,680",, cancer ,Yes
+3059,Patient_3059,MALE,55,Abuja, cardiology ,Dr. Adams,2024-06-28,,217537,No,Cancer,Yes
+3060,Patient_3060,MALE,67,Port Harcourt,Pediatrics,Dr. Adams,2024-06-05,2024-06-11,106323,No,Diabetes,No
+3061,Patient_3061, female ,65,Abuja,Orthopedics,Dr. Musa,2024-06-11,2024-06-15,"241,904", yes ,Cancer,No
+3062,Patient_3062,Male,34,Enugu,Pediatrics,Dr. Okeke,2024-06-29,2024-07-14,"408,025",No,Diabetes,No
+3063,Patient_3063,Female,86,Enugu,Oncology,Dr. Adams,2024-07-16,2024-07-24,88202,No,Diabetes,No
+3064,Patient_3064,Male,61, Lagos ,Oncology,Dr. Smith,2024-06-06,2024-06-17,383326, yes ,Diabetes,No
+3065,Patient_3065, female ,84,Enugu,Orthopedics,Dr. Bello,,2024-07-21,427935,,Fracture,Yes
+3066,Patient_3066,Male,33,Lagos,Neurology,Dr. Bello,2024-07-25,2024-07-28,66168,No, cancer ,Yes
+3067,Patient_3067, female ,39,Kano, cardiology ,Dr. Bello,2024-07-24,2024-08-10,,No, cancer ,Yes
+3068,Patient_3068,Female,67, Lagos ,Pediatrics,Dr. Smith,2024-07-10,2024-07-24,311076,,Asthma,Yes
+3069,Patient_3069,MALE,73,Port Harcourt,Oncology,Dr. Smith,2024-06-28,2024-07-01,428563, yes ,Cancer,No
+3070,Patient_3070,Male,25,Enugu,Oncology,Dr. Adams,2024-06-14,2024-06-20,219647,No,Diabetes,Yes
+3009,Patient_3009, female ,74, Lagos ,Oncology,Dr. Okeke,,2024-07-09,"388,537", yes ,Diabetes,Yes
+3038,Patient_3038, female ,59,Kano,Pediatrics,Dr. Adams,2024-07-17,2024-07-28,"275,039",, cancer ,No
+3041,Patient_3041,Female,22,Lagos,Orthopedics,Dr. Okeke,2024-07-20,2024-07-26,"410,540",,Diabetes,No
+3068,Patient_3068,Female,67, Lagos ,Pediatrics,Dr. Smith,2024-07-10,2024-07-24,311076,,Asthma,Yes
